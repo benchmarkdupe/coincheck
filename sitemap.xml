@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://benchmarkdupe.github.io/coincheck/index.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/rug-pull-checker.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-rug-checker.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/ai-trade-bot.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/mcp-trading-bot.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/rugcheck-alternative.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/memecoin-safety-checker.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-token-screener.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/token-risk-checker.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-safety-checker.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/liquidity-checker.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/honeypot-detector-solana.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/onchain-risk-api.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/token-risk-api.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/claude-trading-bot.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-mcp-server.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/crypto-due-diligence.html</loc></url>
-  <url><loc>https://benchmarkdupe.github.io/coincheck/wallet-clustering-solana.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/deployer-reputation.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/fomo-family-safety.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/fomo-rug-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/fomo-wallet-connect.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/free-rug-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/honeypot-detector-solana.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/how-to-check-pump-fun-tokens.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/index.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/liquidity-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/mcp-trading-bot.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/memecoin-launch-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/memecoin-safety-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/onchain-risk-api.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-bonding-curve.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-liquidity-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-rug-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-safety-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-token-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pump-fun-vs-fomo.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/pumpfun-safety.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/rug-pull-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/rugcheck-alternative.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-mcp-server.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-memecoin-safety.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-rug-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/solana-token-screener.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/token-risk-api.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/token-risk-checker.html</loc></url>
+  <url><loc>https://benchmarkdupe.github.io/coincheck/wallet-clustering-solana.html</loc></url>
   <url><loc>https://benchmarkdupe.github.io/coincheck/what-is-a-rug-pull.html</loc></url>
 </urlset>
